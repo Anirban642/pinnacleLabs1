@@ -15,7 +15,7 @@ A sleek, modern mobile-style calculator built with HTML, CSS, and JavaScript. De
 🚀 Getting Started
 🔧 Installation
 Clone the repository
-git clone https://github.com/yourusername/mobile-calculator.git
+git clone https://github.com/Anirban642/pinnacleLabs1.git
 cd mobile-calculator
 
 Open index.html in your browser
