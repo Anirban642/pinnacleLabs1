@@ -55,6 +55,6 @@ Feel free to fork this repo, suggest improvements, or submit pull requests. Let�
 
 🧑‍💻 Author
 Anirban – Passionate Web Dev Learner
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Anirban642
 
 ⭐️ If you like this project, give it a star! It helps a lot!
